@@ -28,12 +28,12 @@ local Library = {
     RegistryMap = {};
 
     HudRegistry = {};
-
+FontColor":"#7777ff","MainColor":"1c1c1c","AccentColor":"#7777ff","BackgroundColor":"1d1d1d","OutlineColor":"#26264d
     FontColor = Color3.fromRGB(255, 255, 255);
     MainColor = Color3.fromRGB(28, 28, 28);
-    BackgroundColor = Color3.fromRGB(20, 20, 20);
-    AccentColor = Color3.fromRGB(0, 85, 255);
-    OutlineColor = Color3.fromRGB(50, 50, 50);
+    BackgroundColor = Color3.fromRGB(29, 29, 29);
+    AccentColor = Color3.fromRGB(119, 119, 255);
+    OutlineColor = Color3.fromRGB(38, 38, 77);
     RiskColor = Color3.fromRGB(255, 50, 50),
 
     Black = Color3.new(0, 0, 0);
